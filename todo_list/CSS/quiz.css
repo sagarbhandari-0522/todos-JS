@@ -1,0 +1,54 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.heading {
+  text-align: center;
+  color: goldenrod;
+}
+
+.heading h1 {
+  padding: 50px;
+  font-size: 100px;
+}
+
+.heading p {
+  display: none;
+}
+
+.heading p span {
+  font-size: 100px;
+  color: red;
+}
+
+.question {
+  padding: 40px 55px;
+  background-color: #1DB9C3;
+}
+
+.question .qn {
+  margin-bottom: 20px;
+}
+
+.desc {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.form-check {
+  position: relative;
+  left: 15px;
+}
+
+.button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=quiz.css.map */
